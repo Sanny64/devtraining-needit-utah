@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="94f28b01937b75104a61f15a7bba1074" extends="sys_import_set_row" label="User Data" max_length="40" name="x_58872_needit_user_data" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Assignment group" label="Assignment group" max_length="40" name="u_assignment_group" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Persona group" label="Persona group" max_length="40" name="u_persona_group" type="string"/>
+        <element attributes="import_attribute_name=Username (cid)" label="Username (cid)" max_length="40" name="u_username__cid_" type="float"/>
+    </element>
+</database>
